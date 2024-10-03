@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, here Vipin Koshy Thomas</h1>
-<img align="right" alt="Data Analysis" src="https://github.com/Vipinkthomas/Vipinkthomas/blob/main/Data-Science.png" width="40%"/>
+<img align="right" alt="Data Analysis" src="https://github.com/Vipinkthomas/Vipinkthomas/blob/main/Data-Science.png" width="70%" height=""/>
 
 <h3 align="left">About Me</h3>
 <ul>
@@ -30,5 +30,5 @@
     <img class="img" src="https://github-readme-stats.vercel.app/api?username=vipinkthomas&show_icons=true&locale=en" alt="github stats" width="45%" />
     <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=vipinkthomas" alt="git streak" width="45%" />
   </div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipinkthomas&theme=github-compact&bg_color=FFFFFF&color=27374D&title_color=27374D&line=1D5D9B&point=0A6EBD&area=true&area_color=068FFF" alt="activity graph" style="width: 90%; height: auto;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipinkthomas&theme=github-compact&bg_color=FFFFFF&color=27374D&title_color=27374D&line=1D5D9B&point=0A6EBD&area=true&area_color=068FFF" alt="activity graph" width= "90%" height= "auto">
 </div>
