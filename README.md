@@ -5,7 +5,7 @@
 <ul>
   <li>🏛️ I’m currently working as <b>Software Engineer</b> at <a href="https://www.ti.com/" target="blank">Texas Instruments</a> and finding solutions in the world of nano dimensions with the help of Data science.</li>
   <li>💬 Ask me about <b>Anything related to my field of expertise and ie Software Engineering and Data Science</b>.</li>
-  <li>📫  How to reach me ... I leave less internet footprints, but @[picsyn](https://picsyn.wordpress.com/)</li>
+  <li>📫  How to reach me ... I leave less internet footprints, but @ [picsyn](https://picsyn.wordpress.com/)</li>
   <li> I’m interested in ... Machine Learning, Nueral Networks(Deep Learning), Embedded Programming, Crytography and Data Science.</li>
   <li>🔗 Check out Research Work: 
     <ul>
