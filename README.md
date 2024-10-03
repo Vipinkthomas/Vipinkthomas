@@ -31,5 +31,5 @@
     <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=vipinkthomas" alt="git streak" width="45%" />
   </div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipinkthomas&theme=github-compact&bg_color=FFFFFF&color=27374D&title_color=27374D&line=1D5D9B&point=0A6EBD&area=true&area_color=068FFF" alt="activity graph" width= "90%" height= "auto">
-  <img src="https://camo.githubusercontent.com/73d4a56781f5163dbb59e62f94e4a233247037215ba33388829cc639d096c5ca/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72757374792d736a26686964653d546558266c61796f75743d636f6d70616374" alt="activity graph" width= "90%" height= "auto">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinkthomas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="activity graph" width= "50%" height= "auto">
 </div>
