@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, here Vipin Koshy Thomas</h1>
-<img align="right" alt="Data Analysis" src="https://github.com/Vipinkthomas/Vipinkthomas/blob/main/Data-Science.png" width="70%" height=""/>
+<img align="right" alt="Data Analysis" src="https://github.com/Vipinkthomas/Vipinkthomas/blob/main/Data-Science.png" width="50%"/>
 
 <h3 align="left">About Me</h3>
 <ul>
